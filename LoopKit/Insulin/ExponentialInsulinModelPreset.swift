@@ -42,7 +42,7 @@ extension ExponentialInsulinModelPreset {
         case .fiasp:
             return .minutes(55)
         case .lyumjev:
-            return .minutes(52)
+            return .minutes(62)
         case.afrezza:
             return .minutes(29)
         }
